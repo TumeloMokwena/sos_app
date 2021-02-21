@@ -1,0 +1,4 @@
+python-3.9.1
+
+heroku apps:create rsibot
+heroku buildpacks:set heroku/python

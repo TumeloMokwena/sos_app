@@ -1,0 +1,9 @@
+twisted
+python-binance
+binance-client
+TA_Lib
+numpy
+websocket_client
+flask
+pandas
+yfinance
